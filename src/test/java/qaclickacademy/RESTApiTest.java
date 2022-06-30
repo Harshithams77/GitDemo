@@ -9,6 +9,14 @@ public class RESTApiTest {
 		System.out.println("postJIRA");
 		System.out.println("postJIRA1");
 		System.out.println("postJIRA2");
+		
+		//ffre
+		//frer
+		//gfd
+		
+		System.out.println("postJIRA3");
+		System.out.println("postJIRA4");
+		System.out.println("postJIRA5");
 
 		
 		
